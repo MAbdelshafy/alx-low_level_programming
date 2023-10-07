@@ -1,0 +1,8 @@
+Loading /etc/emacs/site-start.d/00debian.el (source)...done
+For information about GNU Emacs and the GNU system, type C-h C-a.
+(New file)
+Mark set [2 times]
+Auto-saving...done
+Mark set [2 times]
+completing-read-default: Command attempted to use minibuffer while in minibuffer [3 times]
+user-error: Beginning of history; no preceding item
