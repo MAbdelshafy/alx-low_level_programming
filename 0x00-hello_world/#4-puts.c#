@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
-* main - Entry point
-* Description: description
-* Reutrn: Always 0 (Success)
-*/
+ * main - Entry point
+ *  
+ * Reutrn: 0 (Success)
+ */
 
 int main(void)
 {
